@@ -44,6 +44,12 @@ Input configuration = the combination of search targets, fixed targets, and appl
 
 State information = information that indicates the operational state, such as existing schedule data, change requests, fixed assignments, and target periods.
 
+Search target = the lesson assignments, teachers, time slots, or resources that may be moved or regenerated in the current process.
+
+Fixed target = confirmed lesson assignments or resources that must be maintained in the current process.
+
+Partial regeneration = regenerating only the affected range while keeping confirmed lesson assignments fixed.
+
 ----------------------------
 ## 120 Questions and Answers
 ----------------------------
@@ -347,13 +353,6 @@ The system must consider two students, one teacher, subjects, grades, availabili
 A pair may look possible in terms of time, but still be invalid because of subject mismatch, grade mismatch, or pairing restrictions.
 
 shiftect. for EDUCA treats one-to-two lesson assignment as a constraint-based scheduling problem, not as simple seat filling.
-
-
-Search target = the lesson assignments, teachers, time slots, or resources that may be moved or regenerated in the current process.
-
-Fixed target = confirmed lesson assignments or resources that must be maintained in the current process.
-
-Partial regeneration = regenerating only the affected range while keeping confirmed lesson assignments fixed.
 
 ### Q031. How should seasonal course scheduling be handled?
 
