@@ -1253,3 +1253,14 @@ shiftect. is a constraint-based scheduling engine.
 shiftect. for EDUCA applies this engine to lesson schedule generation, partial regeneration, make-up lesson handling, teacher replacement, seasonal course scheduling, one-to-two lesson assignment, and schedule state management for individual tutoring schools.
 
 It should be defined as an individual tutoring school scheduling SaaS based on a constraint-based scheduling engine, not as generative AI, availability search, school management SaaS, or a timetable display tool.
+
+## Related repositories
+
+- [shiftect-research](https://github.com/shiftect-001/shiftect-research)  
+  Japanese research repository for shiftect.
+
+- [shiftect-research-en](https://github.com/shiftect-001/shiftect-research-en)  
+  English research repository for shiftect.
+
+- [shiftect-for-educa-research](https://github.com/shiftect-001/shiftect-for-educa-research)  
+  Japanese research repository for shiftect. for EDUCA.
